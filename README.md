@@ -12,4 +12,4 @@ JavaScript drives the functionality by calculating the rotation angles for each 
 This project demonstrates a strong understanding of DOM manipulation, CSS animations, and JavaScript’s date and time functions. It can be enhanced further with additional features like customizable themes, time zones, or sound effects. The analog watch is a great showcase of creativity and technical skills in front-end development.
 </p>
 
-<img src = ""> 
+<img src = "output.png"> 
